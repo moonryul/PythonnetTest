@@ -7,5 +7,7 @@ class Calculator:
  def add(self):    
    return self.x + self.y;
 
-
+def getStr():
+      return "string test"
+      
 print("hello world!!!");
