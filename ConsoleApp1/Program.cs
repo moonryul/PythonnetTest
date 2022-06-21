@@ -114,8 +114,7 @@ namespace PythonExecutor
                      Path.Combine(PYTHON_HOME, @"Lib\site-packages"),  
                     // 개인 패키지 폴더
                      @"D:\Dropbox\metaverse\PythonnetTest\ConsoleApp1\Python\MyLib",   // calculator.py module
-                     @"C:\Users\moon\AppData\Local\Programs\Python\Python38\tcl",
-                      @"D:\Dropbox\metaverse\gesticulator",  // the root folder itself  under which demo package resides; demo package has demo.py module
+                     @"D:\Dropbox\metaverse\gesticulator",  // the root folder itself  under which demo package resides; demo package has demo.py module
                       @"D:\Dropbox\metaverse\gesticulator\gesticulator",
                        @"D:\Dropbox\metaverse\gesticulator\gesticulator\visualization"
 
